@@ -1,0 +1,7 @@
+This is over written file
+this clears old file
+ this does not overwrite the content
+Instead append to the existing filethis does not overwrite the content
+Instead append to the existing fileFirst line
+second line
+Third line
